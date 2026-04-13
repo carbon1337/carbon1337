@@ -22,27 +22,6 @@ Over the past several years, I have built a range of projects across 2D and 3D, 
 Recently, I have been focused on refining my skills through game jams, personal projects, and building a portfolio that reflects both technical ability and creativity.
 
 <br><br>
-
-
-## Skills
-
-**Languages**
-- C#
-
-**Game Development**
-- Unity Engine (2D & 3D)
-- Physics-based gameplay systems
-- Player controllers & camera systems
-- UI systems (TextMeshPro, Canvas)
-- Input System (New Input System)
-
-**Tools & Technologies**
-- Unity URP
-- Git & GitHub
-- Visual Studio
-- Basic React (for web portfolio)
-
-<br><br>
 ## What I'm Working On
 
 ### While They Sleep
