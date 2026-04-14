@@ -12,7 +12,7 @@ Based in Winnipeg, Canada
 
 ## About Me
 
-I am a Unity developer with a focus on gameplay systems, player experience, and interactive design.
+I am a Unity developer with a focus on creating cool experiences backed by strong technical execution.
 
 Over the past several years, I have built a range of projects across 2D and 3D, developing strong skills in C#, physics-based mechanics, and system design. My work emphasizes creating responsive, polished gameplay that feels good to interact with.
 
