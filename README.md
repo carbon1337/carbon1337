@@ -3,15 +3,12 @@
 Unity C# Developer | Game Programmer  
 Based in Winnipeg, Canada  
 
-View my full portfolio here:  
+<p align="left">
+  <a href="https://rileyclarke.net">🌐 Portfolio</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://rileyclarke.itch.io">🎮 Play My Games</a>
+</p>
 
-🔗 https://rileyclarke.net
-
-Play My Games:
-
-🔗 https://rileyclarke.itch.io
-
-<br><br>
+<br>
 
 ## About Me
 
@@ -24,16 +21,29 @@ Recently, I have been focused on refining my skills through game jams, personal 
 <br><br>
 ## What I'm Working On
 
-### While They Sleep
-A PSX-style stealth game developed during a game jam.  
-Features include:
-- Noise-based detection system
-- AI security cameras with tracking and alert states
-- Object interaction (pickup, rotate, throw)
-- Dynamic tension through audio and UI feedback
+Right now, I’m focused on pushing my game development further by building more complete and polished experiences.
+
+My current project, While They Sleep, is a 3D Horror game based on stealth mechanics. I originally created it for Pegjam 2026, but have been inspired to continue the project further.
 
 
-<br><br>
+You play as a criminal trying to lay low from the police by phrogging in somebody's basement. You must wake up at night to sneak upstairs and take the human necessities for yourself to survive.
+
+The longer you stay, the more the homeowner starts to catch on. Make sure that what you are doing is worth it. You may live to regret ever choosing this house.
+
+<br>
+
+While They Sleep is expected to be releasing in the early summer of 2026. Keep up with development by following along with my devlogs in the playlist below.
+
+<br>
+
+## Latest Devlog / Gameplay
+
+<a href="https://www.youtube.com/playlist?list=PLHP-xPSi6u-z2BIMFkWoD5GdNMhl4Xn-a">
+  <div align="left">
+    <img src="https://img.youtube.com/vi/1Pv7n2BCKhQ/maxresdefault.jpg" width="500" style="border-radius: 12px;">
+  </div>
+</a>
+<br>
 
 ## Contact
 
