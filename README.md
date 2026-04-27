@@ -4,7 +4,7 @@ Unity C# Developer | Game Programmer
 Based in Winnipeg, Canada  
 
 <p align="left">
-  <a href="https://rileyclarke.net">🌐 Portfolio</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://rileyclarke.dev">🌐 Portfolio</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://rileyclarke.itch.io">🎮 Play My Games</a>
 </p>
 
